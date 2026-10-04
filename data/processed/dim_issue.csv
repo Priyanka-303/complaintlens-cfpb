@@ -1,0 +1,139 @@
+issue_key,product,issue
+1,Checking or savings account,
+2,Checking or savings account,Closing an account
+3,Checking or savings account,Credit monitoring or identity theft protection services
+4,Checking or savings account,Improper use of your report
+5,Checking or savings account,Incorrect information on your report
+6,Checking or savings account,Managing an account
+7,Checking or savings account,Opening an account
+8,Checking or savings account,Problem caused by your funds being low
+9,Checking or savings account,Problem with a company's investigation into an existing problem
+10,Checking or savings account,Problem with a lender or other company charging your account
+11,Checking or savings account,Problem with fraud alerts or security freezes
+12,Checking or savings account,Unable to get your credit report or credit score
+13,Credit card,"Advertising and marketing, including promotional offers"
+14,Credit card,Closing your account
+15,Credit card,Credit monitoring or identity theft protection services
+16,Credit card,Fees or interest
+17,Credit card,Getting a credit card
+18,Credit card,Improper use of your report
+19,Credit card,Incorrect information on your report
+20,Credit card,"Other features, terms, or problems"
+21,Credit card,Problem when making payments
+22,Credit card,Problem with a company's investigation into an existing problem
+23,Credit card,Problem with a purchase shown on your statement
+24,Credit card,Problem with fraud alerts or security freezes
+25,Credit card,Struggling to pay your bill
+26,Credit card,Trouble using your card
+27,Credit card,Unable to get your credit report or credit score
+28,Credit reporting or other personal consumer reports,
+29,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services
+30,Credit reporting or other personal consumer reports,Getting a loan
+31,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services
+32,Credit reporting or other personal consumer reports,Improper use of your report
+33,Credit reporting or other personal consumer reports,Incorrect information on your report
+34,Credit reporting or other personal consumer reports,"Other features, terms, or problems"
+35,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue
+36,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem
+37,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes
+38,Credit reporting or other personal consumer reports,Problems at the end of the loan or lease
+39,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score
+40,Debt collection,Attempts to collect debt not owed
+41,Debt collection,Communication tactics
+42,Debt collection,Electronic communications
+43,Debt collection,False statements or representation
+44,Debt collection,Threatened to contact someone or share information improperly
+45,Debt collection,Took or threatened to take negative or legal action
+46,Debt collection,Written notification about debt
+47,Debt or credit management,Charged upfront or unexpected fees
+48,Debt or credit management,Confusing or misleading advertising or marketing
+49,Debt or credit management,Confusing or missing disclosures
+50,Debt or credit management,Didn't provide services promised
+51,Debt or credit management,Problem with customer service
+52,Debt or credit management,Unauthorized withdrawals or charges
+53,"Money transfer, virtual currency, or money service",Confusing or misleading advertising or marketing
+54,"Money transfer, virtual currency, or money service",Confusing or missing disclosures
+55,"Money transfer, virtual currency, or money service",Fraud or scam
+56,"Money transfer, virtual currency, or money service",Incorrect exchange rate
+57,"Money transfer, virtual currency, or money service",Lost or stolen money order
+58,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account"
+59,"Money transfer, virtual currency, or money service",Money was not available when promised
+60,"Money transfer, virtual currency, or money service",Other service problem
+61,"Money transfer, virtual currency, or money service",Other transaction problem
+62,"Money transfer, virtual currency, or money service","Overdraft, savings, or rewards features"
+63,"Money transfer, virtual currency, or money service",Problem adding money
+64,"Money transfer, virtual currency, or money service",Problem with customer service
+65,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet
+66,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem
+67,"Money transfer, virtual currency, or money service",Unexpected or other fees
+68,"Money transfer, virtual currency, or money service",Wrong amount charged or received
+69,Mortgage,Applying for a mortgage or refinancing an existing mortgage
+70,Mortgage,Closing on a mortgage
+71,Mortgage,Credit monitoring or identity theft protection services
+72,Mortgage,Improper use of your report
+73,Mortgage,Incorrect information on your report
+74,Mortgage,Problem with a company's investigation into an existing problem
+75,Mortgage,Problem with fraud alerts or security freezes
+76,Mortgage,Struggling to pay mortgage
+77,Mortgage,Trouble during payment process
+78,Mortgage,Unable to get your credit report or credit score
+79,"Payday loan, title loan, personal loan, or advance loan",Can't contact lender or servicer
+80,"Payday loan, title loan, personal loan, or advance loan",Can't stop withdrawals from your bank account
+81,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect
+82,"Payday loan, title loan, personal loan, or advance loan",Confusing or misleading advertising or marketing
+83,"Payday loan, title loan, personal loan, or advance loan",Confusing or missing disclosures
+84,"Payday loan, title loan, personal loan, or advance loan",Credit limit changed
+85,"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services
+86,"Payday loan, title loan, personal loan, or advance loan",Getting a line of credit
+87,"Payday loan, title loan, personal loan, or advance loan",Getting the loan
+88,"Payday loan, title loan, personal loan, or advance loan",Improper use of your report
+89,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report
+90,"Payday loan, title loan, personal loan, or advance loan",Issues with repayment
+91,"Payday loan, title loan, personal loan, or advance loan",Loan payment wasn't credited to your account
+92,"Payday loan, title loan, personal loan, or advance loan",Lost or stolen refund
+93,"Payday loan, title loan, personal loan, or advance loan",Money was taken from your bank account on the wrong day or for the wrong amount
+94,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments
+95,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem
+96,"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services
+97,"Payday loan, title loan, personal loan, or advance loan",Problem with cash advance
+98,"Payday loan, title loan, personal loan, or advance loan",Problem with customer service
+99,"Payday loan, title loan, personal loan, or advance loan",Problem with fraud alerts or security freezes
+100,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan
+101,"Payday loan, title loan, personal loan, or advance loan",Problems receiving the advance
+102,"Payday loan, title loan, personal loan, or advance loan",Property was sold
+103,"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for
+104,"Payday loan, title loan, personal loan, or advance loan",Struggling to pay your loan
+105,"Payday loan, title loan, personal loan, or advance loan",Unable to get your credit report or credit score
+106,"Payday loan, title loan, personal loan, or advance loan",Unexpected fees
+107,"Payday loan, title loan, personal loan, or advance loan",Vehicle was damaged or destroyed the vehicle
+108,"Payday loan, title loan, personal loan, or advance loan",Vehicle was repossessed or sold the vehicle
+109,"Payday loan, title loan, personal loan, or advance loan","Was approved for a loan, but didn't receive money"
+110,"Payday loan, title loan, personal loan, or advance loan","Was approved for a loan, but didn't receive the money"
+111,Prepaid card,Advertising
+112,Prepaid card,Problem getting a card or closing an account
+113,Prepaid card,Problem with a purchase or transfer
+114,Prepaid card,Problem with overdraft
+115,Prepaid card,Trouble using the card
+116,Prepaid card,Unexpected or other fees
+117,Student loan,Credit monitoring or identity theft protection services
+118,Student loan,Dealing with your lender or servicer
+119,Student loan,Getting a loan
+120,Student loan,Improper use of your report
+121,Student loan,Incorrect information on your report
+122,Student loan,Issue where my lender is my school
+123,Student loan,Issue with income share agreement
+124,Student loan,Problem with a company's investigation into an existing problem
+125,Student loan,Problem with fraud alerts or security freezes
+126,Student loan,Struggling to repay your loan
+127,Student loan,Unable to get your credit report or credit score
+128,Vehicle loan or lease,Credit monitoring or identity theft protection services
+129,Vehicle loan or lease,Getting a loan or lease
+130,Vehicle loan or lease,Improper use of your report
+131,Vehicle loan or lease,Incorrect information on your report
+132,Vehicle loan or lease,Managing the loan or lease
+133,Vehicle loan or lease,Problem with a company's investigation into an existing problem
+134,Vehicle loan or lease,Problem with fraud alerts or security freezes
+135,Vehicle loan or lease,Problems at the end of the loan or lease
+136,Vehicle loan or lease,Repossession
+137,Vehicle loan or lease,Struggling to pay your loan
+138,Vehicle loan or lease,Unable to get your credit report or credit score

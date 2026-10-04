@@ -1,0 +1,13 @@
+check,value
+date_sent_before_received,0
+duplicate_complaint_ids,0
+in_scope_rows,2734269
+invalid_timely_response,0
+missing_company,0
+missing_complaint_id,0
+missing_issue,6
+missing_product,0
+missing_state,5999
+missing_timely_response,0
+source_rows_scanned,18040765
+unique_complaint_ids,2734269

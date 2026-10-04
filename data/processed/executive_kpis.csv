@@ -1,0 +1,2 @@
+reporting_year,complaint_count,timely_count,untimely_count,monetary_relief_count,nonmonetary_relief_count,public_response_count,timely_rate,monetary_relief_rate,public_response_rate,source_snapshot_date
+2024,2734269,2726532,7737,23745,1369065,1676217,0.99717,0.008684,0.61304,2026-09-27

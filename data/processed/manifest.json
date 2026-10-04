@@ -1,0 +1,25 @@
+{
+  "project": "ComplaintLens",
+  "reporting_year": 2024,
+  "source": "CFPB Consumer Complaint Database",
+  "source_url": "https://files.consumerfinance.gov/ccdb/complaints.csv.zip",
+  "source_snapshot_date": "2026-09-27",
+  "in_scope_rows": 2734269,
+  "minimum_company_complaints_for_comparison": 100,
+  "published_files": [
+    "data_quality_summary.csv",
+    "dim_company.csv",
+    "dim_date.csv",
+    "dim_issue.csv",
+    "dim_product.csv",
+    "executive_kpis.csv",
+    "fact_channel_monthly.csv",
+    "fact_company_monthly.csv",
+    "fact_company_product.csv",
+    "fact_issue_product.csv",
+    "fact_monthly.csv",
+    "fact_product_monthly.csv",
+    "fact_response_annual.csv",
+    "fact_state.csv"
+  ]
+}

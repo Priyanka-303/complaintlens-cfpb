@@ -1,0 +1,16 @@
+{
+  "name": "ComplaintLens",
+  "dataColors": ["#0077B6", "#00A896", "#F4A261", "#E76F51", "#6C63FF", "#5B6573"],
+  "background": "#FFFFFF",
+  "foreground": "#14213D",
+  "tableAccent": "#0077B6",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{"show": true, "fontColor": {"solid": {"color": "#14213D"}}, "fontSize": 12, "fontFamily": "Segoe UI Semibold"}],
+        "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#D8DEE8"}}, "radius": 5}]
+      }
+    }
+  }
+}

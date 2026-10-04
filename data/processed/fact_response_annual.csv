@@ -1,0 +1,6 @@
+company_response,complaint_count,timely_count,untimely_count,monetary_relief_count,nonmonetary_relief_count,public_response_count,timely_rate,monetary_relief_rate,nonmonetary_relief_rate,public_response_rate
+Unknown,13,13,0,0,0,13,1.0,0.0,0.0,1.0
+Untimely response,1501,0,1501,0,0,0,0.0,0.0,0.0,0.0
+Closed with monetary relief,23745,23623,122,23745,0,12774,0.994862,1.0,0.0,0.537966
+Closed with explanation,1339945,1334495,5450,0,0,815019,0.995933,0.0,0.0,0.608248
+Closed with non-monetary relief,1369065,1368401,664,0,1369065,848411,0.999515,0.0,1.0,0.619701
